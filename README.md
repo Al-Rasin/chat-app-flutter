@@ -1,16 +1,12 @@
 # chat_app
-
 A new Flutter project.
 
 ## Getting Started
+In this App, you can sign up and log in with your Email and password.
+Add picture.
+It has have push notification feature.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1703430907](https://github.com/Al-Rasin/chat-app-flutter/assets/142752724/04bab303-d1d6-488c-be2d-6b065dd49b0d)
+![Screenshot_1703430947](https://github.com/Al-Rasin/chat-app-flutter/assets/142752724/68ddbe63-2654-4521-ac85-7d404818adb8)
+![Screenshot_1703431002](https://github.com/Al-Rasin/chat-app-flutter/assets/142752724/eab828f6-a2dd-4122-b10a-19e9f03c4375)
+![Screenshot_1703430985](https://github.com/Al-Rasin/chat-app-flutter/assets/142752724/21a8bd03-5ad4-46c5-b16c-344ea138567f)
